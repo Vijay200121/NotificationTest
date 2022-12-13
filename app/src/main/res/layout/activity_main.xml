@@ -57,12 +57,12 @@
     <TextView
         android:layout_width="130dp"
         android:layout_height="59dp"
-        android:text="Hello test"
+        android:text="vijy"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button2"
-        android:textSize="20sp"
+        android:textSize="24sp"
         android:textColor="@color/black"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
